@@ -73,7 +73,7 @@ https://md-abu-kayser.github.io/do-you-love-me/
 
 ---
 
-### Contact and Maintainer
+### Contact & Maintainer
 
 - **_Project:_** _do-you-love-me_
 - **_Name:_** Md Abu Kayser - Full-Stack Engineer
