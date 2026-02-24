@@ -106,8 +106,8 @@ https://md-abu-kayser.github.io/do-you-love-me/
 - **_Project:_** _do-you-love-me_
 - **_Name:_** Md Abu Kayser - Full-Stack Engineer
 - **_Maintainer:_** [md-abu-kayser](https://github.com/md-abu-kayser)
-- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 - **_Email:_** [abu.kayser.official@gmail.com](mailto:abu.kayser.official@gmail.com)
+- **_GitHub:_** [github.com/abu.kayser-official](https://github.com/md-abu-kayser)
 
 If you’d like this README tailored for a specific purpose - such as **hiring managers**, **open-source contributors**, or **client deliverables** - feel free to request a custom tone or format.
 
