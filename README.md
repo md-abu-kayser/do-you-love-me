@@ -22,14 +22,6 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![ECMAScript Spec](https://img.shields.io/badge/ECMAScript-262-7A0BC0?logo=ecmascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
-## Plain docs links
-
-- HTML (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/HTML
-- CSS (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/CSS
-- Google Fonts docs: https://fonts.google.com/
-- JavaScript (MDN) docs: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-- ECMAScript (spec, ECMA-262) docs: https://www.ecma-international.org/publications-and-standards/standards/ecma-262/
-
 ---
 
 A small, playful interactive web micro-project that asks "Do you love me?" with evasive "No" behavior, a heart-loader animation, and a celebratory result. Ideal as a lightweight demo of DOM manipulation, CSS animations, and playful UX.
